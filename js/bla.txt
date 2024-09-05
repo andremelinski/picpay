@@ -1,0 +1,30 @@
+				"first_name": "andre", 
+				"last_name": "melinski", 
+				"document": "09686702",
+				"email": "email@email2",
+				"password": "354543"
+
+                { 
+				"first_name": "andre", 
+				"last_name": "melinski", 
+				"document": "0968670",
+				"email": "email@email",
+				"password": "354543"
+}
+
+{ 
+				"first_name": "andre", 
+				"last_name": "shopkeepers", 
+				"document": "shopkeepers",
+				"email": "shopkeepers@email",
+				"password": "shopkeepers"
+}
+
+{
+  "id": 4,
+  "full_name": "andre shopkeeperss",
+  "email": "shopkeepers@emasil",
+  "user_type": "shopkeepers",
+  "wallet_id": 4,
+  "balance": 100
+}
